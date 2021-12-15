@@ -1,20 +1,36 @@
 # hackathonMintic-2021-grupo-8
-Proyecto :<br>
-RECYCLE "La herramienta para mejorar nuestro hogar, nuestro planeta."<br><br>
-Problema tratado: 
+<h2 align="center">Proyecto :</h2>
+<h1 align="center">RECYCLE<br></h1>
+<h4 align="center">"La herramienta para mejorar nuestro hogar, nuestro planeta."<br><br></h4>
+
+
+
+<p text-align = "center">
+Problema tratado:<br><br> 
 Cambio climático y medio ambiente. 
 Este es el enfoque principal, pero también toca Trabajo decente y crecimiento económico.
+  </p>
 
-¿Cómo están solucionando el problema con este producto digital?
+
+
+
+
+<b>¿Cómo están solucionando el problema con este producto digital?</b><br><br>
 En los hogares no se tiene aún la cultura para el reciclaje, la tarea de separar los residuos que produce un hogar es el primer paso para conseguir que se realice un adecuado  reciclaje.
 
 Las empresas recolectoras de residuos, no realizan,  al momento de recolectar la basura una adecuada clasificación de éstos, quedando en las  personas que realizan las actividades de reciclaje esta actividad,  muy  importante para el cuidado del medio ambiente.
 
-¿Qué necesidades están resolviendo?
+<b>¿Qué necesidades están resolviendo?</b><br><br>
+
 La app RECYCLER crea sinergía entre dos actores fundamentales en materia de reciclaje por un lado los hogares y por la otra los recicladores. RECYCLER, apoya la cultura de clasificación de residuos en la fuente, que beneficia al medio ambiente, a los hogares, a los emprendedores del reciclaje y a las empresas recolectoras.
 
-¿Por qué esta solución es diferente a lo que ya existe en la actualidad?
+<b>¿Por qué esta solución es diferente a lo que ya existe en la actualidad?</b><br><br>
+
 Porque está adaptada a nuestra cultura, porque da un importante primer paso  que puede escalar , porque ayuda a los actores a tomar consciencia y sobre todo acción encaminada al cuidado de nuestro planeta. Un planeta que no necesita de nosotros, pero sin el cual nuestra existencia como humanidad no es viable.
+
+
+
+
 
 TEAM 8 :
 
