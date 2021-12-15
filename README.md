@@ -1,9 +1,9 @@
 # hackathonMintic-2021-grupo-8
 <h2 align="center">Proyecto :</h2>
-<h1 align="center">RECYCLE<br></h1>
+<h1 align="center">RECYCLER<br></h1>
 <h4 align="center">"La herramienta para mejorar nuestro hogar, nuestro planeta."<br><br></h4>
 
-
+<img src="https://www.freepik.es/vector-gratis/conjunto-diferentes-basureros_3899753.htm#page=1&query=recicle&position=7&from_view=search" alt="RECYCLER">
 
 <p text-align = "center">
 Problema tratado:<br><br> 
