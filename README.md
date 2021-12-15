@@ -3,13 +3,17 @@
 <h1 align="center">RECYCLER<br></h1>
 <h4 align="center">"La herramienta para mejorar nuestro hogar, nuestro planeta."<br><br></h4>
 
-<img src="https://www.freepik.es/vector-gratis/conjunto-diferentes-basureros_3899753.htm#page=1&query=recicle&position=7&from_view=search" alt="RECYCLER">
+
+  <p align="center">
+   <img src="https://image.freepik.com/vector-gratis/conjunto-diferentes-basureros_1308-22704.jpg" alt="RECYCLER by G8"/>
+</p>
+
 
 <p text-align = "center">
 Problema tratado:<br><br> 
 Cambio climático y medio ambiente. 
-Este es el enfoque principal, pero también toca Trabajo decente y crecimiento económico.
-  </p>
+Este es el enfoque principal, pero también toca, Trabajo decente y Crecimiento Económico.
+</p>
 
 
 
