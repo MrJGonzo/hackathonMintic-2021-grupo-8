@@ -32,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="56dp"
-        android:text="PEDAGOGIA"
+        android:text="CAPACITACION"
         app:layout_constraintEnd_toEndOf="@+id/btn_ereciclador"
         app:layout_constraintStart_toStartOf="@+id/btn_ereciclador"
         app:layout_constraintTop_toBottomOf="@+id/btn_ereciclador" />

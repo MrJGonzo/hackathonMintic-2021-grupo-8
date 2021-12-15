@@ -14,7 +14,7 @@ public class Login extends AppCompatActivity {
     private Button btn_registrarse ;
 
     private EditText editText_usuario ;
-    private EditText editText_clave ;
+    private EditText editText_clavelog ;
 
     
 
@@ -27,7 +27,7 @@ public class Login extends AppCompatActivity {
         btn_registrarse = findViewById(R.id.btn_registrarse) ;
 
         editText_usuario = findViewById(R.id.editText_usuario) ;
-        editText_clave = findViewById(R.id.editText_clave) ;
+        editText_clavelog = findViewById(R.id.editText_clavelog) ;
 
 
 

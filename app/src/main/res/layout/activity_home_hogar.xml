@@ -32,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="76dp"
-        android:text="PEDAGOGIA"
+        android:text="CAPACITACION"
         app:layout_constraintEnd_toEndOf="@+id/btn_ehogar"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="@+id/btn_ehogar"
